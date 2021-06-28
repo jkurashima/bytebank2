@@ -65,3 +65,10 @@ class _ContactItem extends StatelessWidget {
     );
   }
 }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+//teste commit
+=======
+>>>>>>> a50a2f940124ff493aa738b6dd149c433f187ff7
+>>>>>>> 06ef0ed5d37691606b626c48fd7f6575bf42f0e8
